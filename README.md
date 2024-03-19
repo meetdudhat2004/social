@@ -58,3 +58,8 @@ I had like to continue my improvement in css skills.
 - Frontend Mentor - https://www.frontendmentor.io/profile/meetdudhat2004
 - Twitter - [@meetdudhat13](https://www.twitter.com/meetdudhat13)
 
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/social-links-profile-9mfdGvF0ka
+
+Any suggestions on how I can improve are welcome!
